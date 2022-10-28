@@ -6,12 +6,12 @@
 
 
 
-# Hi  HACKTOBERFEST 2022 IS HERE :bangbang::bangbang::bangbang:
+# Hi, HACKTOBERFEST 2022 IS HERE :bangbang::bangbang::bangbang:
 
 :performing_arts: **What is Hacktoberfest ?**
 
 :diamonds: Hacktoberfest is a month-long challenge. It happens every year in the month of October.
-  Hacktoberfest is open to everyone and it marks the celebration of **Open Source.** It's the biggest Open Source event that encourages newbies to participate in Open Source and     create their 1st meaningful PR.
+  Hacktoberfest is open to everyone, and it marks the celebration of **Open Source.** It's the biggest Open Source event that encourages newbies to participate in Open Source and     create their 1st meaningful PR.
   
   <h1 align="center"><img src='https://i.giphy.com/media/xT0xeQfucCAPaq3nQ4/giphy.gif'></h1>
 
@@ -19,7 +19,7 @@
 
 You get some awesome goodies which include A limited-edition T-shirt  for **FREE!** and some stickers.
 
-🤔🤔**How can you Join** :grey_question::grey_question:
+🤔🤔 **How can you join** :grey_question::grey_question:
 
 Navigate to the link below 👇 👇 and follow the instructions ✔️ ✔️
 
@@ -27,15 +27,15 @@ Navigate to the link below 👇 👇 and follow the instructions ✔️ ✔️
 
 ## Excited :interrobang: :star_struck: :star_struck: :star_struck:  
 
-To add your contributions towards opensource community and grab the oppurtunity:smiley: :smiley::smiley: 
+To add your contributions towards open source community and grab the opportunity :smiley: :smiley::smiley: 
 
-Then lets start with this repository.
+Then let's start with this repository.
 ##  <center>:sunglasses: :sunglasses: DSA :sunglasses: :sunglasses: </center> (Collection of DSA problems and solutions :notebook_with_decorative_cover: :notebook_with_decorative_cover:)
 
 ### Head down :arrow_down: :arrow_down: :arrow_down: to see how to get started with the repo and follow the guidelines :dart: :dart: :dart:
 
 *****
-:label: Use proper folders and subfolders to define catagory and put program file(c/c++/java/python/js) and explanation in a readme file
+:label: Use proper folders and subfolders to define category and put program file(c/c++/java/python/js) and explanation in a readme file
  
  Example :    ``Array/Sorting&Searching/bubblesort/bubblesort.c``
  
@@ -45,7 +45,7 @@ Then lets start with this repository.
 
 
 
-#### ⚠️Rules :grey_exclamation: :grey_exclamation: :smirk_cat: :smirk_cat: :smirk_cat::
+#### ⚠️ Rules :grey_exclamation: :grey_exclamation: :smirk_cat: :smirk_cat: :smirk_cat::
 
 ✅ Pull requests can be submitted to any opted-in repository on GitHub or GitLab.
 
@@ -58,7 +58,7 @@ Then lets start with this repository.
 ✅ To get a shirt, you must make four approved pull requests (PRs) on opted-in projects between October 1-31 in any time zone.
 This year, the first 55,000 participants can earn a T-shirt.
 
-#### ⚠️What not to do :exclamation: :exclamation: :triumph: :triumph:
+#### ⚠️ What not to do :exclamation: :exclamation: :triumph: :triumph:
 
 ❌ PRs that are automated (e.g. scripted opening PRs to remove whitespace/optimize images)
 
@@ -70,7 +70,7 @@ This year, the first 55,000 participants can earn a T-shirt.
 
  
 
-## Steps to setup this Repository Locally :monocle_face: :monocle_face::monocle_face:
+## Steps to set up this Repository Locally :monocle_face: :monocle_face::monocle_face:
 ******
 
 
@@ -124,13 +124,13 @@ This year, the first 55,000 participants can earn a T-shirt.
 ```
   $ git commit -m "<your-message>"
 ```
-#### :small_red_triangle: After commiting the changes, you need to push the changes
+#### :small_red_triangle: After committing the changes, you need to push the changes
 ```
    $ git push origin <your-created-branch-name>
 ```
 #### :small_red_triangle: Once you push the changes to your repository, the Compare & pull request button will appear in GitHub.
 
-#### :small_red_triangle: Click it and you'll be taken to this screen
+#### :small_red_triangle: Click it, and you'll be taken to this screen
 
 #### :small_red_triangle: Type a proper description and give the PR an appropriate title. Finally, Open a pull request by clicking the Create pull request button.
 
@@ -146,4 +146,3 @@ This year, the first 55,000 participants can earn a T-shirt.
 <a href="arnabchat2001@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/></a>
 <a href='https://github.com/arnab2001'><img src="https://img.icons8.com/ios-filled/50/000000/github.png"/> </a>
 ![](https://visitor-badge.glitch.me/badge?page_id=arnab2001.DSA)
-
