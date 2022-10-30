@@ -1,4 +1,7 @@
 # NonCode-Contribution
+#hacktoberfest2022
+#OpenSourceContribution 
+It is one of the biggest festival for open source contributors to share their creative ideas near open source community.
 
 
 
