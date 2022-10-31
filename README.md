@@ -131,7 +131,7 @@ This year, the first 55,000 participants can earn a T-shirt.
 ```
 #### :small_red_triangle: Once you push the changes to your repository, the Compare & pull request button will appear in GitHub.
 
-#### :small_red_triangle: Click it, and you'll be taken to this screen
+#### :small_red_triangle: Click it, and you'll be taken to this screen.
 
 #### :small_red_triangle: Type a proper description and give the PR an appropriate title. Finally, Open a pull request by clicking the Create pull request button.
 
