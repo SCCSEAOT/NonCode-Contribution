@@ -33,16 +33,14 @@ Navigate to the link below 👇 👇 and follow the instructions ✔️ ✔️
 To add your contributions towards open source community and grab the opportunity :smiley: :smiley::smiley: 
 
 Then let's start with this repository.
-##  <center>:sunglasses: :sunglasses: DSA :sunglasses: :sunglasses: </center> (Collection of DSA problems and solutions :notebook_with_decorative_cover: :notebook_with_decorative_cover:)
+##  <center>:sunglasses: :sunglasses: Non-Code Contributions :sunglasses: :sunglasses: </center>
 
 ### Head down :arrow_down: :arrow_down: :arrow_down: to see how to get started with the repo and follow the guidelines :dart: :dart: :dart:
 
 *****
-:label: Use proper folders and subfolders to define category and put program file(c/c++/java/python/js) and explanation in a readme file
+:label: Use proper folders and subfolders to define category and put program file and explanation in a readme file
  
- Example :    ``Array/Sorting&Searching/bubblesort/bubblesort.c``
- 
- ``Matrix/Matrix Multiplication/Matrix_multiplication.c (adding further documentation is reccomended)``  
+``  
  
  
 
